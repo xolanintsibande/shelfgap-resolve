@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShelfGap Resolve
 ### Product Management Case Study and MVP Blueprint
 
@@ -122,3 +123,7 @@ Targets must be established after discovery and baseline measurement. Do not inv
 ## Portfolio disclosure
 
 This repository documents a proposed product and its planned validation. Do not describe the MVP as deployed, adopted by a retailer, or commercially successful unless that becomes true and can be evidenced.
+=======
+# shelfgap-resolve
+A product management case study and MVP concept for guided FMCG retail shelf-gap investigation and resolution
+>>>>>>> 2a0a0df8c86399b604b05e40574482f0c8e44c71
